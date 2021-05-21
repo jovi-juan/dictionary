@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1000,
+    "id" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new4/canvas/",
+    "label" : {
+      "none" : [ "bisaya-dictionary-a-pg17_new4" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new4/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new4/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 42
+            }, {
+              "width" : 63,
+              "height" : 83
+            }, {
+              "width" : 125,
+              "height" : 165
+            }, {
+              "width" : 250,
+              "height" : 330
+            }, {
+              "width" : 500,
+              "height" : 659
+            }, {
+              "width" : 1000,
+              "height" : 1318
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1000,
+            "@id" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new4",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1318
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1000,
+          "id" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new4/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1318
+        },
+        "target" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new4/canvas/"
+      } ]
+    } ],
+    "height" : 1318
+  }, {
+    "width" : 1000,
     "id" : "https://jovi-juan.github.io/dictionary/images/bisaya-dictionary-a-pg17_new3/canvas/",
     "label" : {
       "none" : [ "bisaya-dictionary-a-pg17_new3" ]
